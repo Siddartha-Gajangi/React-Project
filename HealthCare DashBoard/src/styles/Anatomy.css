@@ -1,0 +1,30 @@
+.anatomy-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.image-container {
+  flex: 1;
+}
+
+.anatomy-image {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  display: block;
+  margin: auto;
+  border-radius: 20px;
+}
+
+.health-info {
+  flex: 1;
+  background: lightsteelblue;
+  color: black;
+  padding: 20px;
+  border-radius: 10px;
+  padding-top: 40%;
+  padding-bottom: 40%;
+  justify-content: space-around;
+}

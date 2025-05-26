@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1px;
+  background: skyblue;
+  color: green;
+}
+.header-actions {
+  background: skyblue;
+  display: flex;
+  align-items: center; 
+  justify-content:center; 
+  gap: 10px; 
+}
+
+
+
+.header-actions input {
+  border: none;
+  width: 40%;
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+

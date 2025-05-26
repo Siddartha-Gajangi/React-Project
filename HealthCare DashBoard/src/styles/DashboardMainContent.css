@@ -1,0 +1,68 @@
+.dashboard-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+  background: #f5f5f5;
+  border-radius: 10px;
+}
+
+.anatomy-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+}
+
+.health-status-cards {
+  display: flex;
+  gap: 15px;
+  color: black;
+}
+
+.status-card {
+  background: white;
+  padding: 5px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.calendar-view {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+}
+
+.upcoming-schedule {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+}
+
+.activity-feed {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+}
+
+.bottom-section {
+  padding-top: 115px;
+  position: absolute;
+  right: 40px;
+  top: 20px;
+  width: 40%;
+}
+
+
+.bottom-section {
+  display: flex;
+  flex-direction: column; 
+  gap: 10px; 
+}
