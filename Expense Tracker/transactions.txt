@@ -1,6 +1,0 @@
-income,salary,12345.0,2025-01-14
-income,salary,2000.0,2025-01-15
-income,salary,12345.0,2025-01-14
-income,salary,12345.0,2025-01-14
-income,salary,2000.0,2023-01-29
-income,salary,20000.0,2020-01-25
